@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@100..900&display=swap');
+
+
+.home-container {
+    height: 600px;
+    border-radius: 10px;
+    margin: 20px;
+    background-color: #FF885B;
+    border: solid 6px #FFE5CF;
+}
+
+.image-container {
+    margin-bottom: 20px;
+    background-color:#557C56;
+    border: 8px solid #557C56;
+    border-radius: 10px;
+    border-bottom: solid 6px #FFE5CF;
+    text-align: center;
+}
+
+.profile-image {
+    margin: 20px auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 8px solid orange;
+    
+}
+
+.info-container {
+    text-align: center;
+    font-family: "Mitr", sans-serif;
+    background-color: #FF885B;
+
+}
+
+.name {
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 10px; 
+    font-family: "Noto Sans Thai", sans-serif;
+    
+}
+
+.student-id {
+    font-size: 26px;
+    color: #ffffff;
+    margin-bottom: 10px;
+    font-family: "Noto Sans Thai", sans-serif;
+}
+
+.university {
+    font-size: 26px;
+    color: #ffffff;
+    margin-bottom: 10px;
+    font-family: "Noto Sans Thai", sans-serif;
+}
+
+.music {
+    font-size: 26px;
+    font-style: italic;
+    color: #ffffff;
+    font-family: "Noto Sans Thai", sans-serif;
+}
